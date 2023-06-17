@@ -1,0 +1,10 @@
+
+    train: /content/drive/MyDrive/CV/Data_YOLO/train
+    val: /content/drive/MyDrive/CV/Data_YOLO/valid
+    test: /content/drive/MyDrive/CV/Data_YOLO/test
+    nc: 3
+    names:
+        0 : go
+        1 : warning
+        2 : stop
+    
